@@ -1,0 +1,100 @@
+Prediction followed by Target @ Step 1
+====================================================================================================
+assertEquals assertEquals assertEquals assertEquals assertEquals assertEquals assertEquals assertEquals assertEquals assertEquals assertEquals assertEquals assertEquals assertEquals assertEquals assertEquals assertEquals assertEquals assertEquals assertEquals assertEquals assertEquals assertEquals assertEquals assertEquals
+public java.lang.String toString ( ) { return ( ( ( VAR_1 ) + STRING_1 ) + ( f ) ) + STRING_2 ; } SEQUENCE_END
+
+size size size size size size size size size size size size size size size size size size size size size size pos pos pos pos assertEquals size size size size size size size pos size pos pos pos pos
+public void METHOD_1 ( ) { if ( ( VAR_1 ) != null ) VAR_1 . METHOD_2 ( ) ; VAR_2 = false ; if ( ( VAR_3 ) != null ) VAR_3 . METHOD_3 ( ) ; } SEQUENCE_END
+
+long long java.io.IOException java.io.IOException java.io.IOException java.io.IOException java.io.IOException long long long long content content content } } } } } } } android.util.Slog.w android.util.Slog.w android.util.Slog.w toString toString toString toString e.toString e.toString e.toString content content content content content content content content
+public static void METHOD_1 ( TYPE_1 VAR_1 , java.lang.String VAR_2 ) { try { TYPE_2 . METHOD_2 ( ) . METHOD_1 ( VAR_1 , VAR_2 , null ) ; } catch ( android.os.RemoteException e ) { } } SEQUENCE_END
+
+long java.io.IOException java.io.IOException java.io.IOException java.io.IOException TYPE_4 TYPE_4 TYPE_4 TYPE_4 ret android.os.RemoteException android.os.RemoteException android.os.RemoteException android.os.RemoteException android.os.RemoteException TYPE_4 android.os.RemoteException android.os.RemoteException android.os.RemoteException android.os.RemoteException android.os.RemoteException TYPE_4 TYPE_4 TYPE_4 TYPE_4 TYPE_4 TYPE_4 TYPE_4 TYPE_4 TYPE_4 TYPE_4 TYPE_4 java.io.IOException java.io.IOException pos pos pos pos TYPE_4 TYPE_4 TYPE_4
+public void METHOD_1 ( int VAR_1 , android.os.Message VAR_2 ) { super . METHOD_1 ( VAR_1 , VAR_2 ) ; if ( ( VAR_3 ) != null ) { VAR_3 . METHOD_1 ( VAR_1 , VAR_2 ) ; } } SEQUENCE_END
+
+java.io.IOException java.io.IOException java.io.IOException java.io.IOException java.io.IOException java.io.IOException java.io.IOException java.io.IOException java.io.IOException pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos
+private void METHOD_1 ( ) { METHOD_2 ( VAR_1 , ( ( TYPE_1 . METHOD_3 ( METHOD_4 ( ) . METHOD_5 ( ) , VAR_2 , 1 ) ) != 0 ) ) ; } SEQUENCE_END
+
+java.lang.System.out.println java.lang.System.out.println java.lang.System.out.println java.lang.System.out.println java.lang.System.out.println java.lang.System.out.println source source java.lang.System.out.println java.lang.System.out.println java.lang.System.out.println java.lang.System.out.println android.util.Log.e android.util.Log.e android.util.Log.e android.util.Log.e android.util.Log.e android.util.Log.e android.util.Log.e android.util.Log.e android.util.Log.e INT_3 INT_3 INT_3 INT_3 INT_3 VAR_9 VAR_9 VAR_9 VAR_9 INT_3 INT_3 INT_3 INT_3 INT_3 INT_3 INT_3 INT_3 INT_3
+public java.util.List < TYPE_1 > METHOD_1 ( TYPE_2 VAR_1 ) { TYPE_3 c = METHOD_2 ( VAR_1 ) ; if ( c == null ) { return null ; } return c . METHOD_1 ( ) ; } SEQUENCE_END
+
+tree tree tree tree java.io.IOException java.io.IOException java.io.IOException assertEquals assertEquals assertEquals java.io.IOException java.io.IOException java.io.IOException java.io.IOException java.io.IOException assertEquals pos pos pos pos pos pos pos assertEquals pos pos assertEquals assertEquals assertEquals assertEquals java.lang.System.out.println java.lang.System.out.println java.lang.System.out.println java.lang.System.out.println
+public void METHOD_1 ( TYPE_1 context , TYPE_2 element ) { if ( ( VAR_1 ) == null ) { return ; } METHOD_2 ( context , element , element ) ; } SEQUENCE_END
+
+pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos
+protected void METHOD_1 ( ) { TYPE_1 . METHOD_3 ( ) . METHOD_4 ( ) ; } SEQUENCE_END
+
+android.util.Slog.w android.util.Slog.w android.util.Slog.w android.util.Slog.w android.util.Slog.w android.util.Slog.w android.util.Slog.w android.util.Slog.w android.util.Slog.w android.util.Slog.w android.util.Slog.w android.util.Slog.w android.util.Slog.w android.util.Slog.w android.util.Slog.w android.util.Slog.w android.util.Slog.w android.util.Slog.w android.util.Slog.w android.util.Slog.w android.util.Slog.w android.util.Slog.w android.util.Slog.w android.util.Slog.w android.util.Slog.w android.util.Slog.w android.util.Slog.w android.util.Slog.w android.util.Slog.w android.util.Slog.w android.util.Slog.w android.util.Slog.w
+final void METHOD_1 ( TYPE_1 app , boolean VAR_1 , boolean VAR_2 ) { ( VAR_3 ) ++ ; METHOD_2 ( app , VAR_1 , VAR_2 , 0 ) ; } SEQUENCE_END
+
+device device device java.io.IOException e.toString e.toString java.io.IOException pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos
+public void METHOD_1 ( ) { VAR_1 . METHOD_2 ( false ) ; VAR_2 . METHOD_3 ( VAR_3 ) ; } SEQUENCE_END
+
+INT_3 INT_3 INT_3 INT_3 INT_3 INT_3 INT_3 INT_3 INT_3 INT_3 INT_3 INT_3 INT_3 void void void event INT_3 INT_3 INT_3 INT_3 INT_3 INT_3 INT_3 INT_3 INT_3 INT_3 INT_3 INT_3 INT_3 INT_3 INT_3 INT_3 INT_3
+public void run ( final TYPE_1 device , final TYPE_2 test ) throws TYPE_4 , TYPE_5 { VAR_2 = false ; VAR_3 = test ; VAR_3 . run ( device ) ; } SEQUENCE_END
+
+content content content content content content content content content content content content content size size size size size size size content size size size size size size size size content content content content content
+public void METHOD_1 ( ) throws java.lang.Exception { org.junit.Assert.assertEquals ( STRING_1 , TYPE_1 . METHOD_2 ( STRING_2 ) ) ; org.junit.Assert.assertEquals ( STRING_3 , TYPE_1 . METHOD_2 ( STRING_4 ) ) ; } SEQUENCE_END
+
+size size size size size size size size size size size size size size size size size size size toString size size size size size size size size size size size size size assertEquals
+static long METHOD_1 ( long VAR_1 ) { TYPE_1 VAR_2 = VAR_3 . METHOD_2 ( VAR_1 ) ; if ( VAR_2 == null ) { return 0 ; } return VAR_4 ; } SEQUENCE_END
+
+pos pos pos assertEquals assertEquals assertEquals assertEquals assertEquals assertEquals java.io.IOException java.io.IOException java.io.IOException pos pos pos pos pos pos pos pos pos pos pos pos pos assertEquals assertEquals assertEquals assertEquals assertEquals assertEquals
+private int METHOD_1 ( ) { assert TYPE_2 . METHOD_2 ( ) . METHOD_3 ( ) ; if ( VAR_1 ) { return VAR_2 ; } return VAR_3 ; } SEQUENCE_END
+
+assertEquals assertEquals assertEquals assertEquals assertEquals assertEquals assertEquals assertEquals assertEquals assertEquals assertEquals assertEquals assertEquals pos pos pos assertEquals assertEquals pos pos pos pos pos pos pos assertEquals pos pos assertEquals assertEquals assertEquals assertEquals
+public TYPE_1 METHOD_1 ( int VAR_1 ) { return new TYPE_1 ( METHOD_2 ( ) , TYPE_3 . get ( VAR_2 ) . booleanValue ( ) , VAR_1 ) ; } SEQUENCE_END
+
+server size server size size size size size size size size size size size size size size size size size size size size size size
+public static int METHOD_1 ( int arg1 , int VAR_1 ) { return ( - arg1 ) + ( - VAR_1 ) ; } SEQUENCE_END
+
+device pos pos pos device device pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos listener pos VAR_3 pos pos pos pos pos pos pos
+private static void METHOD_1 ( ) { try { Main . METHOD_2 ( ) ; java.lang.System.out.println ( STRING_1 ) ; } catch ( java.lang.NullPointerException ex ) { java.lang.System.out.println ( STRING_2 ) ; } } SEQUENCE_END
+
+pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos assertEquals
+public static void METHOD_1 ( TYPE_1 listener ) { synchronized ( VAR_1 ) { if ( ! ( VAR_2 . METHOD_2 ( listener ) ) ) { VAR_2 . METHOD_3 ( listener ) ; } } } SEQUENCE_END
+
+java.io.IOException java.io.IOException java.io.IOException java.io.IOException java.io.IOException pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos java.io.IOException java.io.IOException java.io.IOException java.io.IOException java.io.IOException java.io.IOException java.io.IOException java.io.IOException java.io.IOException java.io.IOException java.io.IOException
+protected void METHOD_1 ( ) throws java.lang.Throwable { try { if ( ( VAR_1 ) != 0 ) { TYPE_1 . METHOD_2 ( VAR_1 ) ; VAR_1 = 0 ; } } finally { super . METHOD_1 ( ) ; } } SEQUENCE_END
+
+content content content content content content content content content content content content content content content content content content content content content content content content pos content content
+public void METHOD_1 ( TYPE_1 VAR_1 , TYPE_2 VAR_2 ) throws java.io.IOException { METHOD_1 ( TYPE_3 . METHOD_2 ( VAR_1 ) , VAR_2 ) ; } SEQUENCE_END
+
+long long long long long long long long long long long long long } long pos pos pos pos pos pos pos , , , , , pos pos pos pos pos pos pos pos pos pos , , , , , , long , , pos toString ,
+public TYPE_1 METHOD_1 ( TYPE_1 VAR_1 ) throws java.lang.Exception { if ( ( VAR_2 ) == null ) { return false ; } if ( VAR_1 ) { return VAR_2 . METHOD_2 ( VAR_3 ) ; } else { return VAR_2 . METHOD_2 ( null ) ; } }
+
+VAR_3 VAR_3 VAR_3 VAR_3 METHOD_4 VAR_3 VAR_3 VAR_3 java.util.Map java.util.Map java.util.Map java.util.Map java.util.Map size VAR_3 VAR_3 VAR_3 VAR_3 VAR_3 VAR_3 VAR_3 VAR_3 VAR_3 VAR_3 VAR_3 VAR_3 VAR_3 VAR_3 e.toString e.toString java.util.Map java.util.Map java.util.Map java.util.Map java.util.Map VAR_3 VAR_3
+private void METHOD_1 ( int VAR_1 , int VAR_2 ) { int VAR_3 = VAR_1 | ( VAR_2 & INT_1 ) ; VAR_4 . log ( VAR_5 , new TYPE_1 ( VAR_3 ) ) ; } SEQUENCE_END
+
+pos pos pos test test test test test test test test test test test test test test test test test pos test pos test
+public static long METHOD_1 ( long arg ) { return ( ( 10 * arg ) * 11 ) * 12 ; } SEQUENCE_END
+
+pos pos assertEquals pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos assertEquals
+public static int METHOD_1 ( int arg ) { return INT_1 - ( arg + INT_2 ) ; } SEQUENCE_END
+
+java.io.IOException java.io.IOException java.io.IOException java.io.IOException java.io.IOException java.io.IOException java.io.IOException java.io.IOException java.io.IOException java.io.IOException java.io.IOException java.io.IOException java.io.IOException java.io.IOException java.io.IOException device device device pos pos java.io.IOException pos pos java.io.IOException java.io.IOException toString e.toString device device
+public boolean METHOD_1 ( android.bluetooth.BluetoothDevice device ) { if ( ( VAR_1 ) == null ) return false ; return VAR_1 . METHOD_1 ( device ) ; } SEQUENCE_END
+
+INT_3 INT_3 INT_3 INT_3 INT_3 event event INT_3 INT_3 INT_3 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100
+public void METHOD_1 ( java.util.List < TYPE_1 > VAR_1 , TYPE_2 VAR_2 , final TYPE_3 callback ) { METHOD_1 ( VAR_1 , VAR_2 , null , callback , null ) ; } SEQUENCE_END
+
+e.toString assertEquals assertEquals INT_3 INT_3 e.toString e.toString e.toString assertEquals assertEquals assertEquals size size size size e.toString e.toString e.toString e.toString e.toString e.toString e.toString
+public static void run ( ) throws java.lang.Exception { TYPE_2 . METHOD_2 ( ) ; java.lang.System.out.println ( STRING_1 ) ; } SEQUENCE_END
+
+INT_3 INT_3 INT_3 INT_3 INT_3 INT_3 INT_3 INT_3 INT_3 INT_3 INT_3 INT_3 INT_3 INT_3 INT_3 INT_3 INT_3 INT_3 INT_3 INT_3 INT_3 INT_3 INT_3 INT_3 INT_3 INT_3 INT_3 INT_3 INT_3
+public static < TYPE_1 > TYPE_2 < TYPE_1 > METHOD_1 ( TYPE_1 result , TYPE_3 VAR_1 ) { return new TYPE_2 ( result , VAR_1 ) ; } SEQUENCE_END
+
+event event event event event event event event event event event event event size size size size size size size size assertEquals assertEquals assertEquals assertEquals event event event ; event pos 100 event
+synchronized void METHOD_1 ( long id , long [ ] VAR_1 , int VAR_2 ) { METHOD_2 ( ) ; METHOD_3 ( mContext , id , VAR_1 , VAR_2 ) ; } SEQUENCE_END
+
+java.lang.System.out.println java.lang.System.out.println verify verify verify VAR_3 verify verify verify verify verify verify VAR_3 VAR_3 verify VAR_3 VAR_3 rr VAR_3 INT_3 INT_3 INT_3 INT_3 INT_3 INT_3 INT_3 verify INT_3 INT_3 size size size INT_3 INT_3 INT_3 verify INT_3 assertEquals [ assertEquals assertEquals
+public java.util.Set < TYPE_1 > METHOD_1 ( ) { java.util.Set < TYPE_1 > VAR_1 = VAR_2 ; if ( VAR_1 == null ) { VAR_1 = new TYPE_2 ( ) ; VAR_2 = VAR_1 ; } return VAR_1 ; } SEQUENCE_END
+
+pos pos pos pos tree tree tree pos tree tree pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos pos
+public boolean METHOD_1 ( java.lang.Object obj ) { if ( obj == null ) { return false ; } return METHOD_2 ( obj . METHOD_3 ( ) ) ; } SEQUENCE_END
+
+server server toString e.toString e.toString e.toString e.toString e.toString server server server pos toString toString toString toString toString toString toString toString toString toString toString toString toString toString toString toString toString toString toString toString assertEquals assertEquals assertEquals assertEquals assertEquals
+public void METHOD_1 ( ) { TYPE_1 VAR_1 = new TYPE_1 ( ) ; try { VAR_1 . METHOD_2 ( VAR_1 ) ; METHOD_3 ( ) ; } catch ( java.lang.IllegalArgumentException VAR_2 ) { } } SEQUENCE_END
+
+====================================================================================================
+
